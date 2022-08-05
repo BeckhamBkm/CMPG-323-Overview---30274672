@@ -11,4 +11,4 @@ A school repository with all Assessments and Submissions
 
 **For Project 5:** The overview repository will be used and a project name will be 'Reporting and Monitoring'
 
-**For POE Submission:** The overview repository will be used and a project name will be 'Portfolio of Evidence': 
+**For POE Submission:** The overview repository will be used and a project name will be 'Portfolio of Evidence'
