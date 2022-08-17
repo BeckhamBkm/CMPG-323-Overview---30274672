@@ -13,6 +13,8 @@ A school repository with all Assessments and Submissions
 
 **For POE Submission:** The overview repository will be used and a project name will be 'Portfolio of Evidence'
 
+
+
 **Branching Strategies**
 
 **For Project 1:** I will be using Git Flow strategy to organize my work, make changes and commiting.
