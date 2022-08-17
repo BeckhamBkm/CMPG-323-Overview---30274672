@@ -34,3 +34,14 @@ A school repository with all Assessments and Submissions
 The use of the .gitignore file in every project is because they tell Git which files to ignore when commiting
 your project on Github because they may contain sensitive security information about your device
 
+**Storage of of credentials and sensitive
+information**
+The storage of sensitive information should be kept in .gitignore files as Git is not encrypted 
+
+
+
+**Sources**
+https://www.flagship.io/git-branching-strategies/
+https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository
+
