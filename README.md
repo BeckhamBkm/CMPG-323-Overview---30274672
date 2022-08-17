@@ -29,3 +29,8 @@ A school repository with all Assessments and Submissions
 
 **For POE Submission:** I will be using Git Flow strategy to organize my work, make changes and commiting.
 
+
+**The use of .gitignore**
+The use of the .gitignore file in every project is because they tell Git which files to ignore when commiting
+your project on Github because they may contain sensitive security information about your device
+
