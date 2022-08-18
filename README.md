@@ -31,9 +31,11 @@ A school repository with all Assessments and Submissions
 
 
 **The use of .gitignore**
-The use of the .gitignore file in every project is because they tell Git which files to ignore when I commit
+-The use of the .gitignore file in every project is because they tell Git which files to ignore when I commit
 projects on Github because they may contain sensitive security information about the device I use such as API keys or
 credentials that I would need to keep private
+- Deploying Keys
+-Git Secrets
 
 **Storage of of credentials and sensitive information**
 The storage of sensitive information will be encrypted using git-crypt which protects files after they have been
