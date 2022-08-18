@@ -17,17 +17,17 @@ A school repository with all Assessments and Submissions
 
 **Branching Strategies**
 
-**For Project 1:** I will be using Git Flow strategy to organize my work, make changes and commiting.
+**For Project 1:** I will be using the Master branch to organize my work, make changes and commiting.
 
-**For Project 2:** I will be using Git Flow strategy to organize my work, make changes and commiting.
+**For Project 2:** I will be using the Master branch to organize my work, make changes and commiting.
 
-**For Project 3:** I will be using Git Flow strategy to organize my work, make changes and commiting.
+**For Project 3:** I will be using the Master branch to organize my work, make changes and commiting.
 
-**For Project 4:** I will be using Git Flow strategy to organize my work, make changes and commiting.
+**For Project 4:** I will be using the Master branch to organize my work, make changes and commiting.
 
-**For Project 5:** I will be using Git Flow strategy to organize my work, make changes and commiting.
+**For Project 5:** I will be using the Master branchy to organize my work, make changes and commiting.
 
-**For POE Submission:** I will be using Git Flow strategy to organize my work, make changes and commiting.
+**For POE Submission:** I will be using the Master branchy to organize my work, make changes and commiting.
 
 
 **The use of .gitignore**
@@ -38,6 +38,9 @@ credentials that I would need to keep private
 **Storage of of credentials and sensitive information**
 The storage of sensitive information will be encrypted using git-crypt which protects files after they have been
 commited and both public and private content can be shared simultaneously and stops the need of privatizing the whole repository.
+
+**Project and Repository context Diagram**
+![Repo_Overview](https://user-images.githubusercontent.com/61312229/185389258-10efee87-7188-4dad-be06-e7a18d6f9d0c.png)
 
 
 
